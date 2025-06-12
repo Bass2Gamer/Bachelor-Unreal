@@ -1,0 +1,58 @@
+[
+	{
+		"file": "D:\\Unreal_Bachelor\\Bachelor-Unreal\\Source\\Bachelor\\Bachelor.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Bachelor\\Bachelor-Unreal\\.vscode\\compileCommands_Bachelor\\Bachelor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Bachelor\\Bachelor-Unreal\\Source\\Bachelor\\Bachelor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Bachelor\\Bachelor-Unreal\\.vscode\\compileCommands_Bachelor\\Bachelor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Bachelor\\Bachelor-Unreal\\Source\\Bachelor\\Bachelor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Bachelor\\Bachelor-Unreal\\.vscode\\compileCommands_Bachelor\\Bachelor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Bachelor\\Bachelor-Unreal\\Source\\Bachelor\\Private\\GAS\\PlayerAttributeSet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Bachelor\\Bachelor-Unreal\\.vscode\\compileCommands_Bachelor\\Bachelor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Bachelor\\Bachelor-Unreal\\Source\\Bachelor\\Private\\PlayerScript.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Bachelor\\Bachelor-Unreal\\.vscode\\compileCommands_Bachelor\\Bachelor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Bachelor\\Bachelor-Unreal\\Source\\Bachelor\\Public\\GAS\\PlayerAttributeSet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Bachelor\\Bachelor-Unreal\\.vscode\\compileCommands_Bachelor\\Bachelor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Bachelor\\Bachelor-Unreal\\Source\\Bachelor\\Public\\PlayerScript.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Bachelor\\Bachelor-Unreal\\.vscode\\compileCommands_Bachelor\\Bachelor.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
