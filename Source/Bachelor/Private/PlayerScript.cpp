@@ -14,7 +14,7 @@ APlayerScript::APlayerScript()
 	AbilitySystemComponent->SetIsReplicated(true);
 
 	// Initialize the Attribute Set
-	AttributeSet = CreateDefaultSubobject<UAttributeSet>("AttributeSet");
+	//AttributeSet = CreateDefaultSubobject<UAttributeSet>("AttributeSet");
 }
 
 // Called when the game starts or when spawned
@@ -48,7 +48,7 @@ void APlayerScript::PossessedBy(AController* NewController)
 
 	FGameplayEffectContextHandle EffectContext = AbilitySystemComponent->MakeEffectContext();
 	EffectContext.AddSourceObject(this);
-	FGameplayEffectSpecHandle NewHandle = AbilitySystemComponent->MakeOutgoingSpec(DefaultAttributeEffects, 1.0f, EffectContext);
+	//FGameplayEffectSpecHandle NewHandle = AbilitySystemComponent->MakeOutgoingSpec(DefaultAttributeEffects, 1.0f, EffectContext);
 }
 
 UAbilitySystemComponent* APlayerScript::GetAbilitySystemComponent() const
